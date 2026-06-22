@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/0001-two-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/1672-richest-customer-wealth) |
+| [3903-smallest-stable-index-i](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
