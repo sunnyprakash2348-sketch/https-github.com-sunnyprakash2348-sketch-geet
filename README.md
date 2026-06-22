@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3931-check-adjacent-digit-differences](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/3931-check-adjacent-digit-differences) |
+## Array
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/3925-concatenate-array-with-reverse) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
