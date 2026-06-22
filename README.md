@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2235-add-two-integers](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/2235-add-two-integers) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Number Theory
 |  |
