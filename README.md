@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/0001-two-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sunnyprakash2348-sketch/https-github.com-sunnyprakash2348-sketch-geet/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
