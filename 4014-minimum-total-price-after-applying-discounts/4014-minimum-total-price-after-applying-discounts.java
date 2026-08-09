@@ -18,7 +18,6 @@ class Solution {
                 maxpri+=maxprice(price[i],0);
             }
         }
-        System.out.println(maxpri);
         return maxpri;
     }
 }
